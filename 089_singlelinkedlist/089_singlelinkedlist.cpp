@@ -10,5 +10,6 @@ struct Node {
 Node* START = NULL;
 
 void addNode() {
-	int
+	int nim;
+	string nama;
 }
